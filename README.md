@@ -249,7 +249,10 @@ So phuc 2: -1353.1353 + 6.4352.i
 ***#### B9. Thực hành dự án***
 
 Theo yêu cầu trong link sau: https://github.com/BEExSRC-AdvancedCCourse/Revision-ComplexCalculator.git (3 điểm)
-Yêu cầu bổ sung lấy điểm cộng +0.5 điểm: Dùng đúng project trong link, tuy nhiên thay đổi giao diện sao cho trở thành Vector Calculator (Vecto hai chiều gồm x và y). Chỉ cần có giao diện cho phép cộng và trừ là đạt yêu cầu
+
+***Bài tập bổ sung để lấy điểm cộng +1 điểm***: Vẫn sử dụng project trong link, tuy nhiên thay đổi **giao diện** sao cho trở thành Vector Calculator (Vecto hai chiều gồm x và y). Chỉ cần có giao diện cho phép cộng và trừ và hiển thị đúng kết quả là đạt yêu cầu
+
+Biết rằng trong toán thì Vector luôn có dạng (x,y)
 
 
 **### II.2. Kiểm tra khả năng lập trình dự án (tối đa 9 điểm)**
